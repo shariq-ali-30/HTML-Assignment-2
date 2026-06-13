@@ -34,10 +34,6 @@ Through this assignment, I learned:
 - How to use different HTML formatting tags
 - How to organize content into sections
 
-## Course Information
-
-I'm currently learning Web and App Development at SMIT and this project is part of my HTML practice assignments.
-
 ## Author
 
 **Shariq Ali**
